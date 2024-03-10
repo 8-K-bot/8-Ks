@@ -1,7 +1,8 @@
-# List of Form 8-Ks with item 1.05
-Last checked 2024-03-09 20:00:32
 
-|Form|Company|Timestamp|Material*|Link|
+# List of Form 8-Ks with item 1.05
+Last checked 2024-03-09 21:27:04
+
+|Form|Company|Timestamp|Material|Link|
 |---|---|---|:---:|---|
 |8-K/A|UNITEDHEALTH GROUP INC|2024-03-08 17:13:56||[link](https://www.sec.gov/Archives/edgar/data/731766/000073176624000085/0000731766-24-000085-index.htm)|
 |8-K/A|MICROSOFT CORP|2024-03-08 08:58:04||[link](https://www.sec.gov/Archives/edgar/data/789019/000119312524062997/0001193125-24-062997-index.htm)|
@@ -16,5 +17,3 @@ Last checked 2024-03-09 20:00:32
 |8-K/A|First American Financial Corp|2023-12-29 16:25:05||[link](https://www.sec.gov/Archives/edgar/data/1472787/000095017023073848/0000950170-23-073848-index.htm)|
 |8-K|First American Financial Corp|2023-12-22 12:13:25||[link](https://www.sec.gov/Archives/edgar/data/1472787/000095017023072513/0000950170-23-072513-index.htm)|
 |8-K|V F CORP|2023-12-18 06:37:32|✓|[link](https://www.sec.gov/Archives/edgar/data/103379/000095012323011228/0000950123-23-011228-index.htm)|
-
-\* Materiality is inferred using OpenAI and may be inaccurate.
