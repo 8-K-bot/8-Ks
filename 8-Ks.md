@@ -1,5 +1,5 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-03-09 21:36:56
+Last checked 2024-03-10 08:44:23
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
@@ -17,4 +17,4 @@ Last checked 2024-03-09 21:36:56
 |8-K|First American Financial Corp|2023-12-22 12:13:25||[link](https://www.sec.gov/Archives/edgar/data/1472787/000095017023072513/0000950170-23-072513-index.htm)|
 |8-K|V F CORP|2023-12-18 06:37:32|✓|[link](https://www.sec.gov/Archives/edgar/data/103379/000095012323011228/0000950123-23-011228-index.htm)|
 
-\* Materiality is inferred using OpenAI and may be inaccurate.
+\* Materiality is determined using OpenAI and may be inaccurate.
