@@ -12,7 +12,7 @@ Last checked 2024-03-09 20:00:32
 |8-K|Hewlett Packard Enterprise Co|2024-01-24 16:05:25||[link](https://www.sec.gov/Archives/edgar/data/1645590/000164559024000009/0001645590-24-000009-index.htm)|
 |8-K|MICROSOFT CORP|2024-01-19 16:39:35||[link](https://www.sec.gov/Archives/edgar/data/789019/000119312524011295/0001193125-24-011295-index.htm)|
 |8-K/A|V F CORP|2024-01-18 16:33:42||[link](https://www.sec.gov/Archives/edgar/data/103379/000119312524010243/0001193125-24-010243-index.htm)|
-|8-K/A|First American Financial Corp|2024-01-12 16:27:42||[link](https://www.sec.gov/Archives/edgar/data/1472787/000095017024004247/0000950170-24-004247-index.htm)|
+|8-K/A|First American Financial Corp|2024-01-12 16:27:42|✓|[link](https://www.sec.gov/Archives/edgar/data/1472787/000095017024004247/0000950170-24-004247-index.htm)|
 |8-K/A|First American Financial Corp|2023-12-29 16:25:05||[link](https://www.sec.gov/Archives/edgar/data/1472787/000095017023073848/0000950170-23-073848-index.htm)|
 |8-K|First American Financial Corp|2023-12-22 12:13:25||[link](https://www.sec.gov/Archives/edgar/data/1472787/000095017023072513/0000950170-23-072513-index.htm)|
 |8-K|V F CORP|2023-12-18 06:37:32|✓|[link](https://www.sec.gov/Archives/edgar/data/103379/000095012323011228/0000950123-23-011228-index.htm)|
