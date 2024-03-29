@@ -1,8 +1,9 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-03-29 17:00:01
+Last checked 2024-03-29 17:15:01
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
+|8-K/A|SouthState Corp|2024-03-29 17:03:39||[link](https://www.sec.gov/Archives/edgar/data/764038/000155837024004390/0001558370-24-004390-index.htm)|
 |8-K|RADIANT LOGISTICS, INC|2024-03-20 08:30:12||[link](https://www.sec.gov/Archives/edgar/data/1171155/000095017024033954/0000950170-24-033954-index.htm)|
 |8-K|MARINEMAX INC|2024-03-12 16:42:10||[link](https://www.sec.gov/Archives/edgar/data/1057060/000095017024030041/0000950170-24-030041-index.htm)|
 |8-K/A|UNITEDHEALTH GROUP INC|2024-03-08 17:13:56||[link](https://www.sec.gov/Archives/edgar/data/731766/000073176624000085/0000731766-24-000085-index.htm)|
