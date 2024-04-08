@@ -1,8 +1,9 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-04-08 17:15:02
+Last checked 2024-04-08 17:30:01
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
+|8-K|B. Riley Financial, Inc.|2024-04-08 17:20:23||[link](https://www.sec.gov/Archives/edgar/data/1464790/000121390024031252/0001213900-24-031252-index.htm)|
 |8-K/A|MARINEMAX INC|2024-04-01 08:00:10||[link](https://www.sec.gov/Archives/edgar/data/1057060/000095017024038881/0000950170-24-038881-index.htm)|
 |8-K/A|SouthState Corp|2024-03-29 17:03:39||[link](https://www.sec.gov/Archives/edgar/data/764038/000155837024004390/0001558370-24-004390-index.htm)|
 |8-K|RADIANT LOGISTICS, INC|2024-03-20 08:30:12||[link](https://www.sec.gov/Archives/edgar/data/1171155/000095017024033954/0000950170-24-033954-index.htm)|
