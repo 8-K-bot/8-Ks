@@ -1,8 +1,9 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-04-18 16:04:14
+Last checked 2024-04-18 16:19:14
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
+|8-K|Frontier Communications Parent, Inc.|2024-04-18 16:05:56||[link](https://www.sec.gov/Archives/edgar/data/20520/000119312524100764/0001193125-24-100764-index.htm)|
 |8-K|ORASURE TECHNOLOGIES INC|2024-04-12 16:45:30||[link](https://www.sec.gov/Archives/edgar/data/1116463/000119312524094797/0001193125-24-094797-index.htm)|
 |8-K|B. Riley Financial, Inc.|2024-04-08 17:20:23||[link](https://www.sec.gov/Archives/edgar/data/1464790/000121390024031252/0001213900-24-031252-index.htm)|
 |8-K/A|MARINEMAX INC|2024-04-01 08:00:10||[link](https://www.sec.gov/Archives/edgar/data/1057060/000095017024038881/0000950170-24-038881-index.htm)|
