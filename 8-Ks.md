@@ -1,8 +1,9 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-04-24 16:00:01
+Last checked 2024-04-24 16:15:02
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
+|8-K/A|UNITEDHEALTH GROUP INC|2024-04-24 16:02:43|?|[link](https://www.sec.gov/Archives/edgar/data/731766/000073176624000150/0000731766-24-000150-index.htm)|
 |8-K|Frontier Communications Parent, Inc.|2024-04-18 16:05:56||[link](https://www.sec.gov/Archives/edgar/data/20520/000119312524100764/0001193125-24-100764-index.htm)|
 |8-K|ORASURE TECHNOLOGIES INC|2024-04-12 16:45:30||[link](https://www.sec.gov/Archives/edgar/data/1116463/000119312524094797/0001193125-24-094797-index.htm)|
 |8-K|B. Riley Financial, Inc.|2024-04-08 17:20:23||[link](https://www.sec.gov/Archives/edgar/data/1464790/000121390024031252/0001213900-24-031252-index.htm)|
