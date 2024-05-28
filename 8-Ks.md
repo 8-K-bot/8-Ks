@@ -1,8 +1,10 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-05-28 07:30:02
+Last checked 2024-05-28 11:00:01
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
+|8-K/A|BRANDYWINE OPERATING PARTNERSHIP, L.P.|2024-05-28 07:42:06||[link](https://www.sec.gov/Archives/edgar/data/1060386/000119312524147625/0001193125-24-147625-index.htm)|
+|8-K/A|BRANDYWINE REALTY TRUST|2024-05-28 07:42:06||[link](https://www.sec.gov/Archives/edgar/data/790816/000119312524147625/0001193125-24-147625-index.htm)|
 |8-K|BRANDYWINE OPERATING PARTNERSHIP, L.P.|2024-05-07 16:18:05||[link](https://www.sec.gov/Archives/edgar/data/1060386/000119312524133132/0001193125-24-133132-index.htm)|
 |8-K|BRANDYWINE REALTY TRUST|2024-05-07 16:18:05||[link](https://www.sec.gov/Archives/edgar/data/790816/000119312524133132/0001193125-24-133132-index.htm)|
 |8-K|DROPBOX, INC.|2024-05-01 16:36:09||[link](https://www.sec.gov/Archives/edgar/data/1467623/000146762324000024/0001467623-24-000024-index.htm)|
