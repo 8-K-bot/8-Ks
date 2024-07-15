@@ -1,8 +1,9 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-07-11 09:39:27
+Last checked 2024-07-15 10:17:03
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
+|8-K|AT&T INC.|2024-07-12 06:25:23||[link](https://www.sec.gov/Archives/edgar/data/732717/000073271724000046/0000732717-24-000046-index.htm)|
 |8-K|SONIC AUTOMOTIVE INC|2024-07-05 16:00:17||[link](https://www.sec.gov/Archives/edgar/data/1043509/000104350924000060/0001043509-24-000060-index.htm)|
 |8-K/A|KEY TRONIC CORP|2024-06-14 16:14:36|✓|[link](https://www.sec.gov/Archives/edgar/data/719733/000071973324000035/0000719733-24-000035-index.htm)|
 |8-K/A|BRANDYWINE OPERATING PARTNERSHIP, L.P.|2024-05-28 07:42:06||[link](https://www.sec.gov/Archives/edgar/data/1060386/000119312524147625/0001193125-24-147625-index.htm)|
