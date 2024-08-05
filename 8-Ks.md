@@ -1,8 +1,9 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-08-05 12:00:02
+Last checked 2024-08-05 18:00:01
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
+|8-K/A|SONIC AUTOMOTIVE INC|2024-08-05 16:03:23|✓|[link](https://www.sec.gov/Archives/edgar/data/1043509/000104350924000063/0001043509-24-000063-index.htm)|
 |8-K|META MATERIALS INC.|2024-08-01 16:30:49||[link](https://www.sec.gov/Archives/edgar/data/1431959/000095017024089345/0000950170-24-089345-index.htm)|
 |8-K|Crimson Wine Group, Ltd|2024-07-25 17:27:01|✓|[link](https://www.sec.gov/Archives/edgar/data/1562151/000156215124000032/0001562151-24-000032-index.htm)|
 |8-K|BASSETT FURNITURE INDUSTRIES INC|2024-07-15 16:59:07|✓|[link](https://www.sec.gov/Archives/edgar/data/10329/000143774924022743/0001437749-24-022743-index.htm)|
