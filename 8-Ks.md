@@ -1,8 +1,9 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-09-03 00:00:02
+Last checked 2024-09-03 10:00:01
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
+|8-K|HALLIBURTON CO|2024-09-03 06:01:25||[link](https://www.sec.gov/Archives/edgar/data/45012/000004501224000052/0000045012-24-000052-index.htm)|
 |8-K/A|KEY TRONIC CORP|2024-08-06 15:57:14|✓|[link](https://www.sec.gov/Archives/edgar/data/719733/000071973324000047/0000719733-24-000047-index.htm)|
 |8-K/A|BASSETT FURNITURE INDUSTRIES INC|2024-08-05 17:48:39||[link](https://www.sec.gov/Archives/edgar/data/10329/000143774924024679/0001437749-24-024679-index.htm)|
 |8-K/A|SONIC AUTOMOTIVE INC|2024-08-05 16:03:23|✓|[link](https://www.sec.gov/Archives/edgar/data/1043509/000104350924000063/0001043509-24-000063-index.htm)|
