@@ -1,5 +1,5 @@
 # List of Form 8-Ks with item 1.05
-Last checked 2024-11-27 16:00:01
+Last checked 2024-11-28 12:02:57
 
 |Form|Company|Timestamp|Material*|Link|
 |---|---|---|:---:|---|
